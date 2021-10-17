@@ -1,0 +1,13 @@
+name: PotterCraft
+main: me.soulvx.PotterCraft
+version: 1.0
+commands:
+   wand1:
+      description: 
+      usage: /<command>
+   wand2:
+      description: 
+      usage: /<command>
+   wand3:
+      description: 
+      usage: /<command>
